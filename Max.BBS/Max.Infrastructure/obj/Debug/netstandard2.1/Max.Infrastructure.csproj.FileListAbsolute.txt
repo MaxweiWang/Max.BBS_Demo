@@ -1,0 +1,11 @@
+D:\max\core\Max.BBS\Max.Infrastructure\bin\Debug\netstandard2.1\Max.Infrastructure.deps.json
+D:\max\core\Max.BBS\Max.Infrastructure\bin\Debug\netstandard2.1\Max.Infrastructure.dll
+D:\max\core\Max.BBS\Max.Infrastructure\bin\Debug\netstandard2.1\Max.Infrastructure.pdb
+D:\max\core\Max.BBS\Max.Infrastructure\bin\Debug\netstandard2.1\Max.ApplicationCore.dll
+D:\max\core\Max.BBS\Max.Infrastructure\bin\Debug\netstandard2.1\Max.ApplicationCore.pdb
+D:\max\core\Max.BBS\Max.Infrastructure\obj\Debug\netstandard2.1\Max.Infrastructure.csprojAssemblyReference.cache
+D:\max\core\Max.BBS\Max.Infrastructure\obj\Debug\netstandard2.1\Max.Infrastructure.AssemblyInfoInputs.cache
+D:\max\core\Max.BBS\Max.Infrastructure\obj\Debug\netstandard2.1\Max.Infrastructure.AssemblyInfo.cs
+D:\max\core\Max.BBS\Max.Infrastructure\obj\Debug\netstandard2.1\Max.Infrastructure.csproj.CopyComplete
+D:\max\core\Max.BBS\Max.Infrastructure\obj\Debug\netstandard2.1\Max.Infrastructure.dll
+D:\max\core\Max.BBS\Max.Infrastructure\obj\Debug\netstandard2.1\Max.Infrastructure.pdb

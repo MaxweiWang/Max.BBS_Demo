@@ -1,0 +1,7 @@
+D:\max\core\Max.BBS\Max.ApplicationCore\bin\Debug\netstandard2.1\Max.ApplicationCore.deps.json
+D:\max\core\Max.BBS\Max.ApplicationCore\bin\Debug\netstandard2.1\Max.ApplicationCore.dll
+D:\max\core\Max.BBS\Max.ApplicationCore\bin\Debug\netstandard2.1\Max.ApplicationCore.pdb
+D:\max\core\Max.BBS\Max.ApplicationCore\obj\Debug\netstandard2.1\Max.ApplicationCore.AssemblyInfoInputs.cache
+D:\max\core\Max.BBS\Max.ApplicationCore\obj\Debug\netstandard2.1\Max.ApplicationCore.AssemblyInfo.cs
+D:\max\core\Max.BBS\Max.ApplicationCore\obj\Debug\netstandard2.1\Max.ApplicationCore.dll
+D:\max\core\Max.BBS\Max.ApplicationCore\obj\Debug\netstandard2.1\Max.ApplicationCore.pdb
